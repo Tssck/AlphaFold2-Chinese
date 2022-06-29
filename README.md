@@ -1,8 +1,12 @@
 # AlphaFold2-Chinese
-中文版AlphaFold2开源模型-基于DeepMind&CMindspore：
+中文版AlphaFold2开源模型-基于DeepMind&ColabFold&Mindspore：
 * https://github.com/sokrypton/ColabFold
 * https://github.com/deepmind/alphafold
 * https://gitee.com/mindspore/mindscience/tree/master/MindSPONGE/mindsponge/fold
+
+<div align=center>
+<img src="https://github.com/Tssck/AlphaFold2-Chinese/blob/main/docs/seq_64.gif" alt="T1079" width="400"/>
+</div>
 
 # 目录
 
