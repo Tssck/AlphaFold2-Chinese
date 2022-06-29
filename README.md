@@ -191,7 +191,7 @@ export PATH=$(pwd)/mmseqs/bin/:$PATH
 - 34条CASP14结果与alphafold2对比：
 
 <div align=center>
-<img src="../../docs/all_experiment_data.jpg" alt="all_data" width="600"/>
+<img src="https://github.com/Tssck/AlphaFold2-Chinese/blob/main/docs/all_experiment_data.jpg" alt="all_data" width="600"/>
 </div>
 
 ### 预测结果对比图
@@ -199,13 +199,13 @@ export PATH=$(pwd)/mmseqs/bin/:$PATH
 - T1079(长度505)：
 
 <div align=center>
-<img src="../../docs/seq_64.gif" alt="T1079" width="400"/>
+<img src="https://github.com/Tssck/AlphaFold2-Chinese/blob/main/docs/seq_64.gif" alt="T1079" width="400"/>
 </div>
 
 - T1044(长度2180)：
 
 <div align=center>
-<img src="../../docs/seq_21.jpg" alt="T1044" width="400"/>
+<img src="https://github.com/Tssck/AlphaFold2-Chinese/blob/main/docs/seq_21.jpg" alt="T1044" width="400"/>
 </div>
 
 ## 引用
